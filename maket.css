@@ -39,8 +39,8 @@ letter-spacing: 0.55px;
 .welcome {width: 2000px;
 height: 872px;
 background-color: #3695ff;
-background-image: linear-gradient(51deg, #3695ff 0%, #3695ff 20%, #469dff 20.01%, #469bff 40%,
- #4099ff 40.01%, #4092fe 60%, #3b8ffe 60.01%, #3c87fe 80%, #366ffd 100%);
+background-image: linear-gradient(47deg, #3695ff 0%, #3695ff 15%, #469dff 15.01%, #469bff 30%,
+ #4098ff 30.01%, #4092fe 45%, #3c90ff 45.01%, #3b87fe 60%, #3683fe 60.01%, #366ffd 100%);
 margin: 0 auto;
 }
 
@@ -110,8 +110,9 @@ text-transform: uppercase;
 position: absolute;
 text-align: center;
 letter-spacing: 0.4px;
+overflow: hidden;
 width: 777px;
-height: 50px;
+height: 60px;
 margin-top: 470px;
 margin-left: 612px;
 color: #ffffff;
@@ -183,7 +184,6 @@ margin-top: 206px;
 width: 2000px;
 height: 1145px;
 background-color: #f1f8ff;
-
 }
 
 .expert-in {width: 195px;
@@ -477,7 +477,8 @@ footer {margin: 0 auto;
 width: 2000px;
 height: 247px;
 background-color: #e8f3ff;
-background-image: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+background-image: linear-gradient(40deg, #3695ff 0%, #3695ff 15%, #469dff 15.01%, #469bff 30%,
+ #4098ff 30.01%, #4092fe 45%, #3c90ff 45.01%, #3b87fe 60%, #3683fe 60.01%, #366ffd 100%);
 }
 
 #ready {position: absolute;
